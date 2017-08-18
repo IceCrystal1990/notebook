@@ -11,9 +11,9 @@
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/gotgithub/notebook.git` 。
-* Git协议: `git://github.com/gotgithub/notebook.git` 。
-* SSH协议: `ssh://git@github.com/gotgithub/notebook.git` 。
+* HTTP协议: `https://github.com/IceCrystal1990/notebook.git` 。
+* Git协议: `git://github.com/IceCrystal1990/notebook.git` 。
+* SSH协议: `ssh://git@github.com/IceCrystal1990/notebook.git` 。
 
 ## 克隆版本库
 
